@@ -1,0 +1,9 @@
+author: UnioDex
+main: me.UnioDex.SmartMessages.SmartMessages
+name: UnioSmartMessages
+url: http://uniocraft.com/
+version: 1.0
+
+commands:
+  usm:
+    description: UnioSmartMessages

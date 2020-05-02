@@ -1,0 +1,60 @@
+prefix1: '&b&lBİLGİ &2-> &a' #Bilgi
+prefix2: '&b&lDUYURU &2-> &e' #Duyuru
+prefix3: '&b&lUYARI &2-> &6' #Uyarı
+
+messages:
+  beginner:
+  - "&6\n%prefix1%Sunucudaki en verimli tarım ürünü kaktüstür. Yeni oyuncu olarak kaktüs tarlası yapmanızı tavsiye ederiz!"
+  - "&6\n%prefix1%Ada seviyenizi yükselterek rütbe atlayabilirsiniz! &d/warp Bilgi &ayazarak hangi rütbenin kaç seviye istediğini görebilirsiniz."
+  - "&6\n%prefix1%Adanızın seviyesini kolayca yükseltmek için değerli bloklar kullanmalısınız. Elmas Blok en çok seviye veren bloktur."
+  - "&6\n%prefix1%&d/menu &akomutunu kullanarak sunucumuzdaki bir çok özelliğe erişebilirsiniz!"
+  - "&6\n%prefix1%Sunucu marketinden eşya alabilir ya da satabilirsiniz. Marketi açmak için &d/market &akomutu kullanın."
+  - "&6\n%prefix1%Bir tabelayla sandığa sağ tıklayarak o sandığı kilitleyebilirsiniz. Kilitli sandıklara sizden başka kimse erişemez."
+  - "&6\n%prefix1%Elinizdeki eşyayla &d/auc start <miktar> <fiyat> &akomutunu kullanarak bir açık arttırma başlatabilirsiniz!"
+  - "&6\n%prefix1%&d/is &akomutuyla ada menüsüne ulaşabilir ve bir çok işlemi kolayca yapabilirsiniz!"
+  - "&6\n%prefix1%Güvenli ticaret sistemiyle rahatça ticaret yapabilirsiniz! Güvenli ticaret için: &d/trade <isim>"
+  - "&6\n%prefix1%Spawnerları kazma ile kırarak envanterinize alabilirsiniz. Üstelik ipeksi dokunuş büyüsüne gerek olmadan!"
+  intermediate:
+  - "&6\n%prefix1%Marketten spawner alabilir ve spawnerlarınızla sistem yaparak para kazanabilirsiniz."
+  - "&6\n%prefix1%Duyuru sistemiyle adanızın duyurusunu kolayca yapabilirsiniz. Hemen &d/duyuru &ayazarak bilgi alabilirsin!"
+  - "&6\n%prefix1%Satın aldığınız kredileri &d/kredi al <miktar> &akomutuyla envanterinize alabilirsiniz!"
+  - "&6\n%prefix1%Demir spawner sunucumuzdaki en güçlü spawnerdır!"
+  - "&6\n%prefix1%&d/menu &akomutunu kullanarak sunucumuzdaki bir çok özelliğe erişebilirsiniz!"
+  - "&6\n%prefix1%Güvenli ticaret sistemiyle rahatça ticaret yapabilirsiniz! Güvenli ticaret için: &d/trade <isim>"
+  - "&6\n%prefix1%Spawnerları kazma ile kırarak envanterinize alabilirsiniz. Üstelik ipeksi dokunuş büyüsüne gerek olmadan!"
+  - "&6\n%prefix1%Sunucudaki en verimli tarım ürünü kaktüstür. Spawnerların yanına ek gelir olarak kaktüs tarlası yapabilirsiniz."
+  master:
+  - "&6\n%prefix1%&d/menu &akomutunu kullanarak sunucumuzdaki bir çok özelliğe erişebilirsiniz!"
+  - "&6\n%prefix1%Spawnerları kazma ile kırarak envanterinize alabilirsiniz. Üstelik ipeksi dokunuş büyüsüne gerek olmadan!"
+  - "&6\n%prefix1%Sunucudaki en verimli tarım ürünü kaktüstür. Spawnerların yanına ek gelir olarak kaktüs tarlası yapabilirsiniz."
+  - "&6\n%prefix1%Güvenli ticaret sistemiyle rahatça ticaret yapabilirsiniz! Güvenli ticaret için: &d/trade <isim>"
+  - "&6\n%prefix1%Duyuru sistemiyle adanızın duyurusunu kolayca yapabilirsiniz. Hemen &d/duyuru &ayazarak bilgi alabilirsin!"
+  - "&6\n%prefix1%Artık /market üzerinden de spawner alabilirsiniz!"
+  everyone:
+  - "&6\n%prefix1%Sunucumuza her gün /oy vererek /puan ve uçuş süresi kazanabilirsiniz! Oy verdikten sonra /fly komutuyla uçabilirsiniz!"
+  - "&6\n%prefix1%&d/puanmarketi &akomutuyla puan marketine erişebilir ve değerli eşyaları kredi kullanmadan alabilirsiniz!"
+  - "&6\n%prefix1%VIP olarak daha hızlı bir şekilde gelişebilirsiniz! Detaylı bilgi için: &d/vip"
+  - "&6\n%prefix1%Spawnerlar para kazanmanın en hızlı yoludur! Detaylı bilgi için: &d/spawner"
+  - "&6\n%prefix2%Köylü spawnerları artık lapis düşürüyor ve Iron Golem'den daha iyi bir alternatif!"
+  - "&6\n%prefix2%Yeni satış sandığıyla en hızlı şekilde eşyalarınızı satabilirsiniz! Bu sandığın içine giren tüm eşyalar sunucuya otomatik olarak satılıyor! Detaylı bilgi için: &d/ozelesya"
+  - "&6\n%prefix2%Uçuş kartı eşyasıyla UVIP olmanıza gerek olmadan sınırsız bir şekilde uçabilirsiniz! Detaylı bilgi için: &d/ozelesya"
+  - "&6\n%prefix3%Adanıza güvenmediğiniz kişileri almayın! UnioCraft ada ortağıyla yaşanan sorunlarda sorumluluk üstlenmemektedir!"
+  - "&6\n%prefix3%Güvenli ticaret sistemi dışındaki yöntemlerle yapılan ticaretlerde UnioCraft sorumluluk üstlenmemektedir!"
+  - "&6\n%prefix2%Artık spawnerları üst üste koyarak birleştirebilir ve küçük alanda büyük farmlar yaratabilirsiniz!"
+  - "&6\n%prefix2%&d/pazaryeri &ekomutuyla pazaryerine erişebilir ve diğer oyuncuların satışa koyduğu eşyaları inceleyebilirsiniz!"
+  noIsland: |
+    &a 
+    &a 
+    &7&m-----]-&7&l Sunucumuza Hoş Geldin &2&l%player%&7&l! &7&m-[-----
+    &aHemen &6/is &ayazarak adanı oluşturabilir ve maceraya atılabilirsin!
+    &a 
+    &a 
+  islandCreateMessage: |
+    &a 
+    &a 
+    &7&m-----]-&7&l Tebrikler &2&l%player%&7&l! &7&m-[-----
+    &7İlk görevin olan ada oluşturmayı başarıyla tamamladın!
+    &7Bundan sonraki amacın adanı geliştirmek ve bir imparatorluğa çevirmek!
+    &d/help&7, &d/menu&7, &d/is &7gibi komutlarla yardım alabilirsin. İyi eğlenceler!
+    &a 
+    &a 
